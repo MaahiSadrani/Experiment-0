@@ -1,5 +1,5 @@
 Aim:
-Introduction to Python /n
+Introduction to Python 
 Theory: 
 Variables in Python are used to store data values such as names, numbers, or arrays.
 For example, we can store "Maahi" in a variable and 2 in another variable.
